@@ -22,7 +22,6 @@ public class UserData {
         this.password=password;
     }
 
-    
     public List<Note> getNotes(){
         return notes;
     }
